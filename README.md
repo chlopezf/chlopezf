@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://protond.com.co/desarrollador-movil-web/">Christian López</a> 👋</h1>
 </div>
+<img src="https://protond.com.co/CV/banner_github.jpg">
 
 ## About me
 

@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">PROTON D</h3>
 <div align="center">
-<a href=""https://github.com/chlopezf" target="_blank"><img src="https://protond.com.co/wp-content/uploads/2022/07/protond_logo_fondo_reducido.png" width="400" height="430" alt="Proton D"></a>
+<a href=""https://github.com/chlopezf" target="_blank"><img src="https://protond.com.co/wp-content/uploads/2022/07/protond_logo_fondo_reducido.png" width="400" height="400" alt="Proton D"></a>
 <p>
 <a href="https://protond.com.co" target="_blank">
 <img src="https://img.shields.io/badge/WebSite-3472A6?style=for-the-badge">
